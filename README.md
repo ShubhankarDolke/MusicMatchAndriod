@@ -1,4 +1,4 @@
-# YouTube Music Streamer
+# Music Streamer
 
 An Android application for streaming music from YouTube Music with advanced features for a seamless listening experience.
 
